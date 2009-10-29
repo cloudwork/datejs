@@ -1,0 +1,8 @@
+{
+    "name": "datejs",
+    "dependencies": ["narwhal"],
+    "jars": [],
+    "author": "Neville Burnell",
+    "description": "Date Library",
+    "keywords": ["datejs"]
+}
